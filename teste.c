@@ -2,5 +2,5 @@
 
 int main ()
 {
-    prinf("oi");
+    printf("oi");
 }
